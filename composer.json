@@ -1,0 +1,25 @@
+{
+	"repositories": [
+		{ "type": "composer", "url": "https://composer.typo3.org/" },
+		{ "type": "git", "url": "https://github.com/mayankkhurana91/test2.git"}
+	],
+	"name": "typo3/cms-base-distribution",
+	"description" : "TYPO3 CMS Base Distribution",
+	"license": "GPL-2.0+",
+	"require": {
+		"typo3/cms": "^8.7",
+		"helhum/typo3-console": "^4.4",
+		"typo3-ter/introduction": "^3.0",
+		"typo3/cms-rte-ckeditor": "^8.7",
+		"test2/test2": "dev-master"
+	},
+	"extra": {
+		"typo3/cms": {
+			"cms-package-dir": "{$vendor-dir}/typo3/cms",
+			"web-dir": "web"
+		}
+	},
+	"require-dev": {
+		"friendsoftypo3/extension-builder": "dev-master"
+	}
+}

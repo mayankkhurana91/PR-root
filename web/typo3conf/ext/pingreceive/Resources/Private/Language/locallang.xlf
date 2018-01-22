@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-01-22T22:58:40Z" product-name="pingreceive">
+		<header/>
+		<body>
+			<trans-unit id="tx_pingreceive_domain_model_orders">
+				<source>Orders</source>
+			</trans-unit>
+			<trans-unit id="tx_pingreceive_domain_model_orders.orderid">
+				<source>Orderid</source>
+			</trans-unit>
+			<trans-unit id="tx_pingreceive_domain_model_orders.address">
+				<source>Address</source>
+			</trans-unit>
+			<trans-unit id="tx_pingreceive_domain_model_orders.custname">
+				<source>Custname</source>
+			</trans-unit>
+			<trans-unit id="tx_pingreceive_domain_model_orders.custphone">
+				<source>Custphone</source>
+			</trans-unit>
+			<trans-unit id="tx_pingreceive_domain_model_orders.dishes">
+				<source>Dishes</source>
+			</trans-unit>
+			<trans-unit id="tx_pingreceive_domain_model_dishes">
+				<source>Dishes</source>
+			</trans-unit>
+			<trans-unit id="tx_pingreceive_domain_model_dishes.dishtype">
+				<source>Dishtype</source>
+			</trans-unit>
+			<trans-unit id="tx_pingreceive_domain_model_dishes.quantity">
+				<source>Quantity</source>
+			</trans-unit>
+			<trans-unit id="tx_pingreceive_domain_model_dishes.dishid">
+				<source>Dishid</source>
+			</trans-unit>
+			<trans-unit id="tx_pingreceive_domain_model_dishes.description">
+				<source>Description</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
